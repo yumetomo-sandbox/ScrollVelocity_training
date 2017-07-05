@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0;
 }
+
+/**
+ * .content_1
+ */
 .content_1 {
   position: relative;
   width: 900px;
@@ -64,4 +68,20 @@
   left: 340px;
   font-size: 180px;
   font-weight: bold;
+}
+
+/**
+ * .content_2
+ */
+.content_2 {
+  position: relative;
+  width: 900px;
+  height: 700px;
+  margin: 50px auto;
+  background: #6cac4e;
+  text-align: center;
+}
+.content_2 p {
+  font-size: 50px;
+    padding: 50px;
 }
